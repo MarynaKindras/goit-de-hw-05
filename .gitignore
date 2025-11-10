@@ -107,3 +107,17 @@ dist
 .DS_Store
 
 __pycache__/
+
+# IDE-specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Python virtual environment
+.venv/
+__pycache__/
+
+# System files (Windows/macOS)
+.DS_Store
+Thumbs.db
